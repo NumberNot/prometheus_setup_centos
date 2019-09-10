@@ -1,5 +1,3 @@
-#The Prometheus install procedure
-
 The Prometheus install procedure. Clean and simple.
 
 OS CentOS7.

@@ -1,8 +1,4 @@
-# Prometheus commands
-prometheus_commands
-
-## Usable Prometheus filter commands
-#The Prometheus install procedure. Clean and simple.
+# The Prometheus install procedure. Clean and simple.
 
 OS CentOS7/8.
 Original article by Darshana at [fosslinux.com] (https://www.fosslinux.com/10398/how-to-install-and-configure-prometheus-on-centos-7.htm)
@@ -22,7 +18,7 @@ cp prometheus.yml /etc/prometheus/
 chown -R prometheus:prometheus /etc/prometheus/
 nano /etc/systemd/system/prometheus.service
 ```
-##The systemd unit file
+## The systemd unit file
 ```bash
   [Unit]
   Description=Prometheus

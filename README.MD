@@ -1,4 +1,4 @@
-# The Prometheus install procedure. Clean and simple.
+# The Prometheus install procedure. Clean and simple. :rocket:
 
 OS CentOS7/8.
 Original article by Darshana at [fosslinux.com](https://www.fosslinux.com/10398/how-to-install-and-configure-prometheus-on-centos-7.htm) .

@@ -1,7 +1,8 @@
 # The Prometheus install procedure. Clean and simple.
 
 OS CentOS7/8.
-Original article by Darshana at [fosslinux.com] (https://www.fosslinux.com/10398/how-to-install-and-configure-prometheus-on-centos-7.htm)
+Original article by Darshana at [fosslinux.com] [pip] (https://www.fosslinux.com/10398/how-to-install-and-configure-prometheus-on-centos-7.htm)
+[pip](https://pip.pypa.io/en/stable/) to install foobar.
 
 ```bash
 wget -O prometheuspackage.tar.gz https://github.com/prometheus/prometheus/releases/download/v2.13.0/prometheus-2.13.0.linux-amd64.tar.gz
